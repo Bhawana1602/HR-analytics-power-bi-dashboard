@@ -60,7 +60,7 @@ organizational performance.
 -   📉 **Total Attrition:** 237
 -   📊 **Attrition Rate:** 16.1%
 -   💰 **Average Salary:** 6.50K
--   🎂 **Average Age:** 37 Years
+-   📅 **Average Age:** 37 Years
 -   ⏳ **Average Years at Company:** 7 Years
 
 ------------------------------------------------------------------------
