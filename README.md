@@ -48,7 +48,7 @@ organizational performance.
 
 ## 📊 Dashboard 
 
-![HR Dashboard Preview](Screenshots/dashboard_preview.png)
+![HR Dashboard Preview](Screenshot/dashboard_preview.png)
 
 ------------------------------------------------------------------------
 
