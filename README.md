@@ -76,7 +76,7 @@ organizational performance.
 -   Other (5%)
 -   Human Resources (3%)
 
-### 👶 Attrition by Age Group
+### 📅 Attrition by Age Group
 
 -   26--35 years (116) -- Highest
 -   18--25 years (44)
