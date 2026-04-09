@@ -137,14 +137,15 @@ Higher attrition observed in early tenure years.
 -   Create drill-through detailed employee view
 
 ------------------------------------------------------------------------
-## 👩‍💻 Author
+# 👩‍💻 Author
 
 **Bhawana**
-Aspiring Data Analyst | Excel • SQL • Power BI
 
-📧 Email: bhawna.160204@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/bhawana-12677b382/
-💻 GitHub: https://github.com/Bhawana1602/
+Aspiring Data Analyst | Excel • SQL • Power BI • Python
+
+📧 Email: bhawna.160204@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/bhawana-12677b382/  
+💻 GitHub: https://github.com/Bhawana1602
 
 ----------------------------------------------------------------------------------
 
