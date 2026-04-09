@@ -144,7 +144,7 @@ Aspiring Data Analyst | Excel • SQL • Power BI
 
 📧 Email: bhawna.160204@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/bhawana-12677b382/
-💻 GitHub: https://github.com/Bhawana1602
+💻 GitHub: https://github.com/Bhawana1602/
 
 ----------------------------------------------------------------------------------
 
