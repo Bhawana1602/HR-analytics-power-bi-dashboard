@@ -140,8 +140,13 @@ Higher attrition observed in early tenure years.
 ## 👩‍💻 Author
 
 **Bhawana**
-Aspiring Data Analyst \| Excel • SQL • Power BI
+Aspiring Data Analyst | Excel • SQL • Power BI
 
-📧 Email: bhawna.160204@gmail.com\
-🔗 LinkedIn: https://www.linkedin.com/in/bhawana-12677b382/\
+📧 Email: bhawna.160204@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/bhawana-12677b382/
 💻 GitHub: https://github.com/Bhawana1602
+
+----------------------------------------------------------------------------------
+
+⭐ If you found this project helpful, consider giving it a star!
+
